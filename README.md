@@ -1,10 +1,10 @@
-## Improving-Saliency-Detection-Via-Multiple-Kernel-Boosting-and-Adaptive-Fusion
+### Improving-Saliency-Detection-Via-Multiple-Kernel-Boosting-and-Adaptive-Fusion
 
-* 1 This code is for the paper [1]: X. Zhou,Z. Liu, G. Sun, L. Ye and X. Wang, “Improving Saliency Detection Via Multiple Kernel Boosting and  Adaptive Fusion,” IEEE Signal Processing Letters, vol. 23, no. 4, pp. 517-521, April 2016.
+*1 This code is for the paper [1]: X. Zhou,Z. Liu, G. Sun, L. Ye and X. Wang, “Improving Saliency Detection Via Multiple Kernel Boosting and  Adaptive Fusion,” IEEE Signal Processing Letters, vol. 23, no. 4, pp. 517-521, April 2016.
 
-* 2. We utilize some functions provided by [2-8], and the corresponding source codes have been compiled.
+*2 We utilize some functions provided by [2-8], and the corresponding source codes have been compiled.
 
-* 3. We have tested this code under windows7(64bit). Run demo.m in MATLAB and you will see an example.
+*3 We have tested this code under windows7(64bit). Run demo.m in MATLAB and you will see an example.
 
 * %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
